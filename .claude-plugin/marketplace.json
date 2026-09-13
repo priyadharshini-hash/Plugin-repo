@@ -1,0 +1,13 @@
+{
+  "name": "plugin-repo",
+  "owner": {
+    "name": "Priya"
+  },
+  "plugins": [
+    {
+      "name": "hps-visualizer",
+      "source": "./hps-visualizer",
+      "description": "Pulls HPS data for the last 4 weeks plus current week, charts it per developer, and posts to the automation Slack channel."
+    }
+  ]
+}
