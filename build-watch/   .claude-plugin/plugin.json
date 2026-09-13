@@ -1,0 +1,5 @@
+{
+  "name": "build-watch",
+  "version": "1.0.0",
+  "description": "Monitors app build health via Bugsee and auto-alerts on regressions to #automation."
+}
