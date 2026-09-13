@@ -1,0 +1,5 @@
+{
+  "name": "hps-visualizer",
+  "version": "1.0.0",
+  "description": "Pulls HPS data for the last 4 weeks plus current week, charts it per developer, and posts to the automation Slack channel."
+}
